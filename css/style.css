@@ -1,0 +1,100 @@
+body {
+	background-color: #F2F2F2;
+}
+
+td {
+	float: left;
+}
+
+#mForm {
+	float: right;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 60px;
+	padding-right: 60px;
+	padding-left: 60px;
+	font-size: 25px;
+}
+
+#mbtn {
+	width: 200;
+	margin-right: 150px;
+	font-size: 25px;
+}
+
+#mfile {
+	width: 400;
+	font-size: 15px;
+}
+
+fieldset {
+	background-color: white;
+	height: 200px;
+	padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 50px
+}
+
+input {
+	font-size: 15px;
+	float: right;
+	width: 400px;
+}
+
+h2 {
+	font-size: 50px;
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
+
+#ulink {
+	text-align: center;
+}
+
+#utable {
+	margin-left: 594px;
+	width: 200;
+	/*border: red 1px solid;*/
+}
+
+#ftable {
+	padding-left: 400;
+	padding-right: 400;
+    margin-left: 100;
+	margin-top: 20px;
+	/*border:	blue 1px solid;*/
+}
+
+#ftable tbody {
+	background-color: white; 
+}
+
+#ftable th {
+	text-align: center;
+}
+
+#ftable td {
+	padding-right: 10px;
+}
+
+#ftr {
+	padding-bottom:10px;
+}
+
+section {
+	text-align: center;
+}
+
+#apost {
+	padding-left: 550px;
+	font-size: 15px;
+}
+
+#apost input {
+	float: none;
+	width: 300px;
+}
